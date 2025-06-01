@@ -1,14 +1,14 @@
 <h2>Hi there 👋, I am Siddhesh</h2>
 
-- 🔭 Code | Speed | Precision
+- 🔭 I believe in Code | Speed | Precision.
   
-- 🌱 I’m currently learning about **developing low latency systems, async programming**
+- 🌱 I’m currently learning about **developing low latency systems, async programming**.
 
 - 👯 I’m looking to collaborate with the tech peers with similar interests.
 
 - 💬 Ask me about **C++, Java-SpringBoot..**
 
-- 📫 How to reach me: <a href="mailto:talktosiddhesh.shinde@gmail.com">**talktosiddhesh.shinde@gmail.com**</a>
+- 📫 How to reach me: <a href="mailto:talktosiddhesh.shinde@gmail.com">**talktosiddhesh.shinde@gmail.com**</a>.
 
 <h3 align="left">Connect with me:</h3>
 
