@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Java-SpringBoot..**
 
-- 📫 How to reach me: <a href="mailto:siddh3sh.shinde@outlook.com">**siddh3sh.shinde@outlook.com**</a>.
+- 📫 How to reach me: **siddh3sh.shinde@outlook.com**.
 
 <h3 align="left">Find me here 🔗</h3>
 
